@@ -1,5 +1,5 @@
 Developer Notes:
-The API service was developed to provide an implementation for a appointment/ reservation system.
+The API service was developed to provide end points for appointments and reservations.
 
 Improvements prior to production push:
 
