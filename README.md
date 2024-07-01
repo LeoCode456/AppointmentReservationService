@@ -3,9 +3,9 @@ The API service was developed to provide an implementation for a appointment/ re
 
 Improvements prior to production push:
 
-Implement database functions to data.
+Implement database and functions.
 
-Mapp provider and client objects.
+Map provider and client objects.
 
 Convert fuctions to async.
 
